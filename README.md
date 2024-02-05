@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, fellow coder👋
+
+My name is Kenneth Hanson and I am currently completing my coursework towards a B.S. in Computer Science & Mathematics. 
+
+For as long as I can remember, I have been an empiricist and scientist--empiricist in that I like to validate hypothesis with data, and a scientist because I like to hypothesize and test my hypotheses. I am currently scouring the market for roles in data analysis, data engineering, database administration, cloud architecture, or cybersecurity. Much of these fields have overlapping skillsets that transfer easily with each other. 
+
+- 🌱 I’m currently learning machine learning (ML) with Python
 
 <!--
 **ksonh/ksonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
