@@ -6,8 +6,6 @@ For as long as I can remember, I have been an empiricist and scientist--empirici
 
 - 🌱 I’m currently learning machine learning (ML) with Python
 
-Thanks for reading my bio! Please feel free to see my repositories. 
-
 <!--
 **ksonh/ksonh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
