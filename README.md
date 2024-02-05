@@ -1,4 +1,4 @@
-### Hello, fellow coder👋
+### Hello, fellow developer👋
 
 My name is Kenneth Hanson and I am currently completing my coursework towards a B.S. in Computer Science & Mathematics. 
 
